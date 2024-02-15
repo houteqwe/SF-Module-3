@@ -5,10 +5,9 @@ class MainClass
     public static void Main(string[] args)
     {
 
-        string myName;
-        myName = "Test";
+        const string MyName = "Jane";
 
-        Console.WriteLine(myName);
+        Console.WriteLine(MyName);
 
         Console.ReadKey();
     }
