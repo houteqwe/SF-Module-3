@@ -6,7 +6,7 @@
     <RootNamespace>SF_Module_3</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Task374</StartupObject>
+    <StartupObject>FinalTask</StartupObject>
   </PropertyGroup>
 
 </Project>
